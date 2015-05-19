@@ -1,0 +1,1 @@
+The neural network is trained to classify bitmaps. The bitmaps are numbers, like 1, 2, 3, and the neural network will be able to classify outside number sources.
